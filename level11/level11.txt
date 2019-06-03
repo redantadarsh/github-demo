@@ -1,7 +1,0 @@
- oldname newname
-How to see contents in a file/folder ?
---------------------------------
-ls
-How to remove a file/folder ?
----------------------------
-rm -rf folder/pro
